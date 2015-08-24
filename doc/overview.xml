@@ -123,6 +123,17 @@
 	<text>Application to demonstrate the Usage of Android's Navigation Drawer</text>
 	<xmlvm-status>Not working</xmlvm-status>
 	</application>	
+	
+	<application name="TabLayout">
+      	  <files base="android/design/tablayout">
+           <file name="app/src/main/java/org/androidtutorials/design/tablayout/MainActivity.java"/>
+	       <file name="app/src/main/AndroidManifest.xml" />
+           <file name="app/src/main/res/layout/activity_main.xml"/>
+      	  </files>
+	<text>Application to demonstrate the Usage of Android's TabLayout from design library</text>
+	<xmlvm-status>Not working</xmlvm-status>
+	</application>	
+
 
 	<application name="Alerts">
       <files base="android/alerts">
